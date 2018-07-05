@@ -1,0 +1,17 @@
+div{
+    width: 100%;
+    height:100%;
+    background-image:url("http://dl.bizhi.sogou.com/images/1440x900/2012/05/12/12825.jpg");
+    background-repeat: no-repeat;
+    color:red;
+    font-size: 50px
+}
+ol{
+    width: 200px;
+    margin: 0 auto;
+    color:deeppink;
+}
+.box{
+    border:3px solid #ccc;
+    font-family: Bahnschrift;
+}
